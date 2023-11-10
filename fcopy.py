@@ -1,0 +1,2 @@
+def fcopy():
+    pass
