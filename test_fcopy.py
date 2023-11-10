@@ -1,3 +1,3 @@
 import fcopy
-with open("fcopy.py") as myFile:
+with open("data\input1.txt") as myFile:
     fcopy.fcopy(myFile)
